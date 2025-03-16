@@ -91,7 +91,8 @@ article{
     margin: 0px;
 }
 .ss03{
-    width: 80%;
+    max-width: 768px;
+    min-width: 490px;
     min-width: 490px;
     border: 1px solid black;
 }
@@ -163,7 +164,7 @@ article{
     font-weight: bold;
 }
 .ss04{
-    width: 80%;
+    max-width: 768px;
     min-width: 490px;
     border: 1px solid black;
     padding: 20px;
